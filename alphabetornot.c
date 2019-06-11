@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  char s;
+  char c;
   scanf("%c",&c);
   if(isalpha(c))
   {
